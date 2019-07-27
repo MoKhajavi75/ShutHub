@@ -27,7 +27,7 @@ git clone https://github.com/MohamadKh75/ShutHub.git
 
 ## Firefox
 
-Working in progress!
+Work in progress!
 
 ## Stylus
 
