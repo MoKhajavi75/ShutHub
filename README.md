@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-<img src='https://github.com/MohamadKh75/ShutHub/' alt="ShutHub") />
+<img src='https://raw.githubusercontent.com/MohamadKh75/ShutHub/master/icons/128.png' alt="ShutHub") />
 <strong>ShutHub = Shut up + GitHub</strong> :grin:
 </div>
 
