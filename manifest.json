@@ -2,6 +2,14 @@
   "name": "ShutHub",
   "version": "1.0",
   "description": "This extension will hide the GitHub warn about U.S. trade controls law restrictions.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["Hide.js"],
+      "run_at": "document_start"
+    }
+  ],
   "icons": {
     "16": "icons/16.png",
     "32": "icons/32.png",
