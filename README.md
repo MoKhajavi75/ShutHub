@@ -33,7 +33,7 @@ Work in progress!
 
 ### Usage
 
-1. Add code below to your [stylus](https://github.com/stylus/stylus):
+1. Add code below to your [stylus](https://add0n.com/stylus.html):
 
 ```css
 div[class*="flash flash-full js-notice flash-warn"] {
