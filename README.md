@@ -7,9 +7,11 @@
 
 ---
 
-This chrome extension will hide the GitHub warn about U.S. trade controls law restrictions.
+This package will hide the GitHub warn about U.S. trade controls law restrictions.
 
-## Install
+## Chrome
+
+### Install
 
 1. Clone this repo:
 
@@ -22,3 +24,22 @@ git clone https://github.com/MohamadKh75/ShutHub.git
 2. Turn `Developer mode` on
 3. Click on the `Load unpacked` button and load the extension
 4. Enjoy!
+
+## Firefox
+
+Work in progress!
+
+## Stylus
+
+### Usage
+
+1. Add code below to your [stylus](https://github.com/stylus/stylus):
+
+```css
+div[class*="flash flash-full js-notice flash-warn"] {
+  display: none;
+}
+```
+
+2. We're all set, just enjoy!
+
