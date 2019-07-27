@@ -31,7 +31,7 @@ Working in progress!
 
 ## Stylus
 
-# Usage
+### Usage
 
 1. Add code below to your [stylus](https://github.com/stylus/stylus):
 
