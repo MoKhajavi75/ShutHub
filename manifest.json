@@ -1,0 +1,6 @@
+{
+  "name": "ShutHub",
+  "version": "1.0",
+  "description": "This extension will hide the GitHub warn about U.S. trade controls law restrictions.",
+  "manifest_version": 2
+}
