@@ -27,7 +27,7 @@ git clone https://github.com/MohamadKh75/ShutHub.git
 
 ## Firefox
 
-Work in progress!
+Find it [here](https://addons.mozilla.org/en-US/firefox/addon/shuthub/)!
 
 ## Stylus
 
